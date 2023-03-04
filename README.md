@@ -5,5 +5,7 @@ Olá, tudo certinho?
 -> Bem, vamos começar pelo básico, na pasta CODE, temos os códigos de exemplo que eu fiz para você ter uma ideia sobre o que fazer, sinta-se livre para programar o que desejar, alterar ou o qualquer outra coisa. (Relaxa, não vamos julgar!)
 
 -> Suas possibilidades são infinitas, aproveite.
+
+-> **Lembre-se de sempre manter `from brzcode import *` em seu código.**
   
 Abraços, Gustavo.
